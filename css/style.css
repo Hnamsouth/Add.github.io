@@ -30,6 +30,7 @@ input:hover {
     margin: 10px 0;
     border-radius: 10px;
     box-shadow: 3px 3px 5px rgb(180, 180, 180);
+    background:#282C34;
 }
 
 .header h1 {
